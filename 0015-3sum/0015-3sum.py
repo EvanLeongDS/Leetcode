@@ -4,20 +4,27 @@ class Solution:
         nums = sorted(nums)
         print(nums)
         n = len(nums)
-        output_list = []
-        three_set = set()  
+        output_list = []  
+
         # iterate through the three sum
         i = 0
         j = i + 1
         k = n - 1
-        while i + 1 <= n:
+        while i < n - 2:
             if nums[i] > 0:
                 break
+            if i>0 and nums[i] == nums[i-1]:
+                i += 1 
+                j = i + 1
+                k = n - 1 
+                continue
             while j < k: # hold nums[i] nums[j] stagnant test every k
-                temp_tuple = tuple([nums[i], nums[j], nums[k]])
-                if nums[i] + nums[j] + nums[k] == 0 and temp_tuple not in three_set:
+                if nums[i] + nums[j] + nums[k] == 0:
                     output_list.append([nums[i], nums[j], nums[k]])
-                    three_set.add(temp_tuple)
+                    while j < k and nums[j] == nums[j+1]:  # skip duplicate j
+                        j += 1
+                    while j < k and nums[k] == nums[k-1]:  # skip duplicate k
+                        k -= 1
                     j += 1
                     k -= 1
                 elif nums[i] + nums[j] + nums[k] > 0:
