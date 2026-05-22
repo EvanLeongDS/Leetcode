@@ -5,17 +5,7 @@ class Solution:
         print(nums)
         n = len(nums)
         output_list = []
-        three_set = set()
-
-        # base case of 3 
-        if n == 3:
-            total = sum(nums)
-            if total == 0:
-                output_list.append(nums)
-                return output_list
-            else:
-                return []
-        
+        three_set = set()  
         # iterate through the three sum
         i = 0
         j = i + 1
