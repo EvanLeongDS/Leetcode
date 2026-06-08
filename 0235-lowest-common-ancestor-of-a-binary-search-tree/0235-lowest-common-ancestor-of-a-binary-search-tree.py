@@ -12,7 +12,7 @@ class Solution:
             # move right if both are greater
             if p.val > current.val and q.val > current.val:
                 current = current.right
-            # move left if both are less 
+            # move to left of current if both are less 
             elif p.val < current.val and q.val < current.val:
                 current = current.left
             else:
