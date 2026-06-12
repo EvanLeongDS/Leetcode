@@ -9,10 +9,8 @@ class Solution:
         if not preorder or not inorder:
             return None
         root_num = preorder[0]
-        mid = None
-        for index, num in enumerate(inorder):
-            if num == root_num:
-                mid = index
+        mid = inorder.index(root_num)
+        
         left_preorder = preorder[1:mid+1]
         left_inorder = inorder[:mid]
         right_preorder = preorder[mid+1:]
