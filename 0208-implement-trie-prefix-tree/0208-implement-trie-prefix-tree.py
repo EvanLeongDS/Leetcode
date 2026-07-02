@@ -15,14 +15,15 @@ class Trie:
             node = node.children[char]
         node.isEnd = True
 
+    
     def search(self, word: str) -> bool:
         node = self.root
         for char in word:
             if char not in node.children:
                 return False
             node = node.children[char]
-        return node.isEnd
 
+        return node.isEnd
 
     def startsWith(self, prefix: str) -> bool:
         node = self.root
@@ -31,6 +32,8 @@ class Trie:
                 return False
             node = node.children[char]
         return True
+
+        
 
 
 # Your Trie object will be instantiated and called as such:
