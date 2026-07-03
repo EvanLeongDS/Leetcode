@@ -17,7 +17,9 @@ class Solution:
         return island_count
 
     def bfs(self, grid, i, j, visited):
+        visited.add((i,j))
         queue = deque([(i, j)])
+
         while queue:
             # current is a tuple that represents indices within the matrix 
             current = queue.popleft()
