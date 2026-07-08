@@ -3,8 +3,6 @@ class Solution:
         count = 0 # will return in the end 
         if len(s) == 1:
             return 1
-        if len(s) == 2 and s[0] == s[-1]:
-            return 3
         dp = [[False for _ in range(len(s))] for _ in range(len(s))]
         for i in range(len(s)):
             dp[i][i] = True # single characters are always palindromes, therefore increase the count 
