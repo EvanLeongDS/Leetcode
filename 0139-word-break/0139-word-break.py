@@ -4,11 +4,11 @@ class Solution:
         # establish empty array and base case
         dp = [False] * n
         dp[0] = True # vacuously true
-
+        words = set(wordDict) # make it a set so O(1) lookup and 
         # build table 
         for i in range (1, n):
             for j in range(i):
-                if dp[j] and s[j:i] in wordDict:
+                if dp[j] and s[j:i] in words:
                     dp[i] = True
         print(dp)
         return dp[len(s)]
