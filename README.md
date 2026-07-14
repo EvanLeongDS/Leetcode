@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/EvanLeongDS/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/EvanLeongDS/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/EvanLeongDS/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/EvanLeongDS/Leetcode/tree/master/0072-edit-distance) |
@@ -18,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/EvanLeongDS/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/EvanLeongDS/Leetcode/tree/master/0055-jump-game) |
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
@@ -32,5 +34,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/EvanLeongDS/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
