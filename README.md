@@ -24,6 +24,7 @@
 | [0055-jump-game](https://github.com/EvanLeongDS/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
+| [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 ## Recursion
 |  |
 | ------- |
@@ -38,4 +39,13 @@
 | [0045-jump-game-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/EvanLeongDS/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
+| [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+## Hash Table
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+## Sorting
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
