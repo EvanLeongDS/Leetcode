@@ -25,6 +25,7 @@
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0055-jump-game](https://github.com/EvanLeongDS/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
 | ------- |
