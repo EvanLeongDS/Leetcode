@@ -7,6 +7,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/EvanLeongDS/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/EvanLeongDS/Leetcode/tree/master/0072-edit-distance) |
+| [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,14 +41,20 @@
 | [0045-jump-game-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/EvanLeongDS/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 ## Sorting
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
