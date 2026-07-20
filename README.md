@@ -30,6 +30,7 @@
 | [0055-jump-game](https://github.com/EvanLeongDS/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/EvanLeongDS/Leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -58,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 ## Sorting
@@ -96,6 +98,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/EvanLeongDS/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/EvanLeongDS/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
