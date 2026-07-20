@@ -32,6 +32,7 @@
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Recursion
 |  |
@@ -63,6 +64,7 @@
 | [0056-merge-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +73,16 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Binary Search
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
