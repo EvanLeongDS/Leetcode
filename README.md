@@ -30,6 +30,7 @@
 | [0055-jump-game](https://github.com/EvanLeongDS/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/EvanLeongDS/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/EvanLeongDS/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/EvanLeongDS/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/EvanLeongDS/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 ## Matrix
 |  |
