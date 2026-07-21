@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/EvanLeongDS/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/EvanLeongDS/Leetcode/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/EvanLeongDS/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/EvanLeongDS/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/EvanLeongDS/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 ## Matrix
