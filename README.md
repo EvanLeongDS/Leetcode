@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/EvanLeongDS/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0043-multiply-strings](https://github.com/EvanLeongDS/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/EvanLeongDS/Leetcode/tree/master/0072-edit-distance) |
 | [0678-valid-parenthesis-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
@@ -96,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/EvanLeongDS/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/EvanLeongDS/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/EvanLeongDS/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/EvanLeongDS/Leetcode/tree/master/0066-plus-one) |
@@ -109,5 +111,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/EvanLeongDS/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/EvanLeongDS/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
