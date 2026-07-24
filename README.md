@@ -111,6 +111,7 @@
 | [0066-plus-one](https://github.com/EvanLeongDS/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/EvanLeongDS/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -140,4 +141,5 @@
 | [0136-single-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/EvanLeongDS/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/EvanLeongDS/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
