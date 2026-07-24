@@ -34,6 +34,7 @@
 | [0066-plus-one](https://github.com/EvanLeongDS/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0136-single-number) |
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [2013-detect-squares](https://github.com/EvanLeongDS/Leetcode/tree/master/2013-detect-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
