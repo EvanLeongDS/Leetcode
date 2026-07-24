@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/EvanLeongDS/Leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/EvanLeongDS/Leetcode/tree/master/0190-reverse-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -132,4 +133,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/EvanLeongDS/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
