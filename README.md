@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EvanLeongDS/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/EvanLeongDS/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/EvanLeongDS/Leetcode/tree/master/0053-maximum-subarray) |
@@ -86,6 +87,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 ## Stack
