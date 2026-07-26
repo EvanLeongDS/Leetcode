@@ -45,6 +45,7 @@
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/EvanLeongDS/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -60,6 +61,7 @@
 | [0053-maximum-subarray](https://github.com/EvanLeongDS/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/EvanLeongDS/Leetcode/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
@@ -114,6 +117,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Math
 |  |
@@ -174,4 +178,20 @@
 | ------- |
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
