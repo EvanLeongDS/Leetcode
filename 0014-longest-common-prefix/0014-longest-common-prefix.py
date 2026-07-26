@@ -8,7 +8,7 @@ class Solution:
             # iterate over all other strings 
             for j in range(1, len(strs)):
                 # make sure the string goes that far before it goes out of bounds
-                if i > len(strs[j]):
+                if i >= len(strs[j]):
                     return prefix
                 # compare whether strs[0][i] is equivalent to strs[j][i]
                 if strs[0][i] != strs[j][i]:
