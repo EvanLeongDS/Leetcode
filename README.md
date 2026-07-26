@@ -41,6 +41,7 @@
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/EvanLeongDS/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/EvanLeongDS/Leetcode/tree/master/2013-detect-squares) |
 ## Recursion
 |  |
@@ -124,6 +125,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/EvanLeongDS/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/EvanLeongDS/Leetcode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/EvanLeongDS/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
