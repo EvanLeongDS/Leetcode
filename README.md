@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EvanLeongDS/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/EvanLeongDS/Leetcode/tree/master/0048-rotate-image) |
@@ -100,6 +101,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/EvanLeongDS/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
