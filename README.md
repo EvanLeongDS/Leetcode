@@ -46,6 +46,7 @@
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
@@ -98,6 +99,7 @@
 | [0169-majority-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -108,6 +110,7 @@
 | [0027-remove-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/EvanLeongDS/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
+| [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 ## Stack
 |  |
@@ -118,6 +121,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Sweep Line
 |  |
@@ -126,6 +130,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Math
@@ -208,6 +213,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
