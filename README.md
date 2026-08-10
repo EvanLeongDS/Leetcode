@@ -8,6 +8,7 @@
 | [0010-regular-expression-matching](https://github.com/EvanLeongDS/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/EvanLeongDS/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/EvanLeongDS/Leetcode/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/EvanLeongDS/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/EvanLeongDS/Leetcode/tree/master/0072-edit-distance) |
 | [0678-valid-parenthesis-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
@@ -115,6 +116,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/EvanLeongDS/Leetcode/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/EvanLeongDS/Leetcode/tree/master/0901-online-stock-span) |
 ## Binary Search
