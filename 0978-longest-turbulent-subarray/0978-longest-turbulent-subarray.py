@@ -9,7 +9,6 @@ class Solution:
         prev = None # tracks whether you have turbulence or not
 
         for k in range(1, n):
-            print(current_subarray, prev)
             if arr[k] > arr[k - 1]:
                 # add if the previous turbulent was < 
                 if prev == "<":
