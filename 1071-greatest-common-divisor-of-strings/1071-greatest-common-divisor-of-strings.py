@@ -1,18 +1,23 @@
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:
-        def gcd(a, b):
-            if b == 0:
-                return a
-            return gcd(b, a % b)
+        # find prefix 
+        prefix_str = ""
+        min_len = min(len(str1), len(str2))
+        for i in range(min_len):
+            if str1[i] == str2[i]:
+                prefix_str += str1[i]
+            else:
+                break
 
-        g = gcd(len(str1), len(str2))
-        prefix_str = str1[:g]
+        # slice the prefix down until it evenly divides both strings
+        while len(prefix_str) > 0:
+            plen = len(prefix_str)
+            if len(str1) % plen == 0 and len(str2) % plen == 0:
+                if prefix_str * (len(str1)//plen) == str1 and prefix_str * (len(str2)//plen) == str2:
+                    return prefix_str
+            prefix_str = prefix_str[:-1]
 
-        if len(prefix_str) > 0 and prefix_str * (len(str1) // len(prefix_str)) != str1:
-            prefix_str = ""
-        if len(prefix_str) > 0 and prefix_str * (len(str2) // len(prefix_str)) != str2:
-            prefix_str = ""
-        return prefix_str
+        return ""
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
