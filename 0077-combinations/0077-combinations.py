@@ -1,19 +1,18 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        combo_list = []
-
-        def backtrack(start, path):
-            if len(path) == k:
-                combo_list.append(path[:])
+        result = []
+        def backtrack(index, current):
+            if len(current) == k:
+                result.append(current[:])
                 return
-
-            for i in range(start, n + 1):
-                path.append(i)
-                backtrack(i+1, path)
-                path.pop()
-
+            for j in range(index, n + 1):
+                current.append(j)
+                backtrack(j + 1, current)
+                current.pop()
         backtrack(1, [])
-        return combo_list
+        return result
+
+        
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
