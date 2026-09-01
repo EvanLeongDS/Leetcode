@@ -1,28 +1,28 @@
 class Solution:
     def decodeString(self, s: str) -> str:
         stack = []
-        currString = ""
+        currStr = ""
         currNum = 0 
 
         for i in range(len(s)):
             if s[i] == "[":
-                # get the multiplier into the stack for the current string 
-                stack.append([currString, currNum])
-                # reset both
-                currString, currNum = "", 0
-            elif s[i] == "]":
-                prevString = stack[-1][0]
-                count = int(stack.pop()[1])
-                currString = prevString + currString * count 
-                print(currString)
-            elif not s[i].isdigit():
-                # add the word to the current string
-                currString += s[i]
-            else:
-                # add to currNum
-                currNum = currNum*10 + int(s[i])
-        return currString
+                # add current string and number to the stack 
+                stack.append((currStr, currNum))
 
+                # reset string and num 
+                currStr = ""
+                currNum = 0
+            elif s[i] == "]":
+                # pop the top item off the stack and get it into currStr
+                poppedStr, poppedNum = stack.pop()
+                currStr = poppedStr + poppedNum * currStr
+            elif s[i].isdigit():
+                # update currNum
+                currNum = currNum * 10 + int(s[i])
+            else:
+                # update currStr
+                currStr = currStr + s[i]
+        return currStr
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
