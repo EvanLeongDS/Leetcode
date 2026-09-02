@@ -40,6 +40,7 @@
 | [0066-plus-one](https://github.com/EvanLeongDS/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/EvanLeongDS/Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
