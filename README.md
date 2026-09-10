@@ -63,6 +63,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/EvanLeongDS/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/EvanLeongDS/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
@@ -195,6 +196,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
