@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/EvanLeongDS/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -114,6 +115,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/EvanLeongDS/Leetcode/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/EvanLeongDS/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 | [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
@@ -197,6 +199,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/EvanLeongDS/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
