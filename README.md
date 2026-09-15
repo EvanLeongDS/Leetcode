@@ -126,6 +126,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/EvanLeongDS/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/EvanLeongDS/Leetcode/tree/master/0901-online-stock-span) |
@@ -251,12 +252,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
