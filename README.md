@@ -54,6 +54,7 @@
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/EvanLeongDS/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/EvanLeongDS/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -96,6 +97,7 @@
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
+| [0997-find-the-town-judge](https://github.com/EvanLeongDS/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2013-detect-squares](https://github.com/EvanLeongDS/Leetcode/tree/master/2013-detect-squares) |
 ## Sorting
 |  |
@@ -273,4 +275,8 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/EvanLeongDS/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/EvanLeongDS/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
