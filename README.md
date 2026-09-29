@@ -45,6 +45,7 @@
 | [0134-gas-station](https://github.com/EvanLeongDS/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
@@ -172,6 +173,7 @@
 | [0048-rotate-image](https://github.com/EvanLeongDS/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/EvanLeongDS/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Binary Tree
 |  |
@@ -287,9 +290,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
