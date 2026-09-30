@@ -52,6 +52,7 @@
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
@@ -174,6 +175,7 @@
 | [0054-spiral-matrix](https://github.com/EvanLeongDS/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/EvanLeongDS/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Binary Tree
 |  |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
 |  |
@@ -300,4 +304,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
