@@ -12,6 +12,7 @@
 | [0072-edit-distance](https://github.com/EvanLeongDS/Leetcode/tree/master/0072-edit-distance) |
 | [0394-decode-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/EvanLeongDS/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@
 | [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/EvanLeongDS/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -102,6 +104,7 @@
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [0953-verifying-an-alien-dictionary](https://github.com/EvanLeongDS/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -307,6 +310,7 @@
 | [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/EvanLeongDS/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
 |  |
@@ -318,4 +322,8 @@
 | [0130-surrounded-regions](https://github.com/EvanLeongDS/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
