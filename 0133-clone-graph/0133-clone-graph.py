@@ -9,24 +9,18 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        if node is None:
+        if not node:
             return None
         visited = {}
         return self.dfs(node, visited)
-        
+
     def dfs(self, node, visited):
         if node in visited:
             return visited[node]
+          
         copy = Node(node.val)
         visited[node] = copy
-        # iterate through the neighbors so the copy can get the exact same neighbors for its respective graph 
-        for n in node.neighbors:
-            copy_n = self.dfs(n, visited)
-            copy.neighbors.append(copy_n)
-    
-        # return the copied adjacency list 
-        return copy 
+        for neighbor in node.neighbors:
+            copy.neighbors.append(self.dfs(neighbor, visited))
 
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
+        return copy
