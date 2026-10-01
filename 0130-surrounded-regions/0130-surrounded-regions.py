@@ -27,30 +27,21 @@ class Solution:
         for j in range(n):
             if board[m-1][j] == "O":
                 self.dfs(board, m - 1, j, safe)
-
-        # loop through everything and change whatever is not in the safe set 
-        print(safe)
+        
+        # iterate through the whole board, whichever o is not safe becomes X
         for i in range(m):
             for j in range(n):
                 if board[i][j] == "O" and (i, j) not in safe:
                     board[i][j] = "X"
         
-    def dfs(self, board, r, c, safe):
-        # base case
-        if (r, c) in safe:
-            return
-        
-        # add the coords to safe 
-        safe.add((r, c))
+    def dfs(self, board, i, j, safe):
+        safe.add((i, j))
+        directions = [(1,0), (0,1), (0,-1), (-1,0)]
 
-        directions = [(-1, 0), (0, 1), (0, -1), (1, 0)]
-        for neighbor in directions:
-            new_x = r + neighbor[0]
-            new_y = c + neighbor[1]
-            if 0 <= new_x < len(board) and 0 <= new_y < len(board[0]):
-                if board[new_x][new_y] == "O":
-                    self.dfs(board, new_x, new_y, safe)
+        for direction in directions:
+            newx = i + direction[0]
+            newy = j + direction[1]
 
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
+            if 0 <= newx <= len(board) - 1 and 0 <= newy <= len(board[0]) - 1 and board[newx][newy] == "O" and (newx, newy) not in safe:
+                safe.add((newx, newy))
+                self.dfs(board, newx, newy, safe)
