@@ -25,7 +25,6 @@ class Solution:
                 big_list.append(small_list)
 
         # sort the big list
-        big_list.sort()
         return big_list
 
 
