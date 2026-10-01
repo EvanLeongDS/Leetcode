@@ -1,64 +1,43 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
         #final solution
-        pacific_list = set()
-        atlantic_list = set()
+        big_list = []
+        pacific_set = set()
+        atlantic_set = set()
         # loop through the perimeter of the grid
         # m: row count, n is column count
         m, n = len(heights), len(heights[0])
 
-        # iterate through the top row left to right
-        for i in range(n):
-            self.dfs_pacific(heights, 0, i, pacific_list)
-        # iterate through leftmost column top down
-        for j in range(1, m): # don't iterate on row 0 since we already did that
-            self.dfs_pacific(heights, j, 0, pacific_list)
+        # iterate through the outer cells of pacific ocean and atlantic ocean
+        for i in range(m):
+            self.dfs(heights, i, 0, pacific_set)
+        for j in range(n):       
+            self.dfs(heights, 0, j, pacific_set)
+        for i in range(m):
+            self.dfs(heights, i, n-1, atlantic_set)
+        for j in range(n):       
+            self.dfs(heights, m-1, j, atlantic_set)
         
-        # iterate through rightmost column top down
-        for j in range(m):
-            self.dfs_atlantic(heights, j, n - 1, atlantic_list)
-        # iterate through the bottom row
-        for i in range(n):
-            self.dfs_atlantic(heights, m - 1, i, atlantic_list)
+        # compare the two sets and keep the combine one into intersected_set:
+        for pair in pacific_set: 
+            if pair in atlantic_set:
+                small_list = [pair[0], pair[1]]
+                big_list.append(small_list)
 
-        print(pacific_list)
-        print(atlantic_list)
-
-        result = pacific_list.intersection(atlantic_list)
-        return [list(cell) for cell in result]
-    
-    def dfs_pacific(self, heights, r, c, pacific_list):
-        # conduct dfs to see if pacific crosses to atlantic and vice versa
-        pacific_list.add((r, c))
-        directions = [(-1, 0), (0, -1), (0, 1), (1, 0)]
-        for neighbor in directions:
-            new_x = r + neighbor[0]
-            new_y = c + neighbor[1]
-
-            # check range limits
-            if 0 <= new_x < len(heights) and 0 <= new_y < len(heights[0]):
-
-                # check if its not in visited and do reverse flow
-                if (new_x, new_y) not in pacific_list and heights[r][c] <= heights[new_x][new_y]:
-                    self.dfs_pacific(heights, new_x, new_y, pacific_list)
-
-    def dfs_atlantic(self, heights, r, c, atlantic_list):
-        # conduct dfs to see if pacific crosses to atlantic and vice versa
-        atlantic_list.add((r, c))
-        
-        directions = [(-1, 0), (0, -1), (0, 1), (1, 0)]
-        for neighbor in directions:
-            new_x = r + neighbor[0]
-            new_y = c + neighbor[1]
-
-            # check range limits
-            if 0 <= new_x < len(heights) and 0 <= new_y < len(heights[0]):
-
-                # check if not in visited and conduct reverse flow
-                if (new_x, new_y) not in atlantic_list and heights[r][c] <= heights[new_x][new_y]:
-                    self.dfs_atlantic(heights, new_x, new_y, atlantic_list)
+        # sort the big list
+        big_list.sort()
+        return big_list
 
 
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
+    def dfs(self, heights, i , j, ocean_set):
+        ocean_set.add((i, j))
+        directions = [(1,0), (0,1), (-1,0), (0,-1)]
+        for direction in directions:
+            newx = i + direction[0]
+            newy = j + direction[1]
+
+            # make sure its in range, not in the set, and is greater than the current x 
+            if 0 <= newx <= len(heights) -1 and 0 <= newy <= len(heights[0]) - 1 and (newx, newy) not in ocean_set and heights[newx][newy] >= heights[i][j]:
+                # add to the newset
+                ocean_set.add((newx, newy))
+                self.dfs(heights, newx, newy, ocean_set)
