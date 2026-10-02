@@ -165,6 +165,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Math
@@ -291,6 +292,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/EvanLeongDS/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/EvanLeongDS/Leetcode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Binary Tree
 |  |
@@ -309,6 +311,7 @@
 | [0133-clone-graph](https://github.com/EvanLeongDS/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/EvanLeongDS/Leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/EvanLeongDS/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/EvanLeongDS/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
@@ -322,6 +325,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/EvanLeongDS/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/EvanLeongDS/Leetcode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
@@ -345,4 +349,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/EvanLeongDS/Leetcode/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
