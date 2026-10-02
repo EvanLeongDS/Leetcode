@@ -65,6 +65,7 @@
 | [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/EvanLeongDS/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/EvanLeongDS/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/EvanLeongDS/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -156,6 +157,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Sweep Line
 |  |
@@ -167,6 +169,7 @@
 | [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Math
 |  |
@@ -189,6 +192,7 @@
 | [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/EvanLeongDS/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -294,6 +298,7 @@
 | [0721-accounts-merge](https://github.com/EvanLeongDS/Leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -328,6 +333,7 @@
 | [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 | [1462-course-schedule-iv](https://github.com/EvanLeongDS/Leetcode/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -341,6 +347,7 @@
 | [0200-number-of-islands](https://github.com/EvanLeongDS/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/EvanLeongDS/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/EvanLeongDS/Leetcode/tree/master/0721-accounts-merge) |
+| [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -357,4 +364,5 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
