@@ -1,23 +1,19 @@
 class Solution:
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        # output[a,b] interval[c, d] a <=d c<=b overlap
-        output = []
-        intervals.sort(key=lambda x: x[0])
-        for interval in intervals:
-            # check for overlapping intervals 
-            if len(output) == 0:
-                output.append(interval)
-            if len(output) > 0 and output[-1][0] <= interval[1] and interval[0] <= output[-1][1]:
-                # we have an overlap!
-                if interval[1] > output[-1][1]:
-                    output[-1][1] = interval[1]
-                if interval[0] < output[-1][0]:
-                    output[-1][0] = interval[0]
-            else:
-                output.append(interval)
-        return output
-        
+    def merge(self, intervals: list[list[int]]) -> list[list[int]]:
+        # if interval[i][1] >= interval[i +1][0] merge it 
+        # or if interval[0] <= interval[i+1][1]
+        if not intervals:
+            return []
 
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
+        intervals.sort(key=lambda x: x[0])
+        merged_bank = []
+        for interval in intervals:
+             if not merged_bank:
+                merged_bank.append(interval)
+            
+             if merged_bank and merged_bank[-1][1] >= interval[0]:
+                merged_bank[-1][1] = max(interval[1], merged_bank[-1][1])
+
+             else:
+                merged_bank.append(interval)
+        return merged_bank
