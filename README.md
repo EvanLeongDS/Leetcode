@@ -71,6 +71,7 @@
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/EvanLeongDS/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/EvanLeongDS/Leetcode/tree/master/2013-detect-squares) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/EvanLeongDS/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/EvanLeongDS/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/EvanLeongDS/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2013-detect-squares](https://github.com/EvanLeongDS/Leetcode/tree/master/2013-detect-squares) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/EvanLeongDS/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/EvanLeongDS/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/EvanLeongDS/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/EvanLeongDS/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/EvanLeongDS/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
