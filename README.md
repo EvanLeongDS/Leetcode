@@ -365,4 +365,8 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/EvanLeongDS/Leetcode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
