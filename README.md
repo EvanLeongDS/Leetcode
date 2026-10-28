@@ -61,6 +61,7 @@
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/EvanLeongDS/Leetcode/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/EvanLeongDS/Leetcode/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/EvanLeongDS/Leetcode/tree/master/0724-find-pivot-index) |
 | [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0912-sort-an-array) |
@@ -274,6 +275,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/EvanLeongDS/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/EvanLeongDS/Leetcode/tree/master/0724-find-pivot-index) |
 ## Monotonic Stack
 |  |
 | ------- |
