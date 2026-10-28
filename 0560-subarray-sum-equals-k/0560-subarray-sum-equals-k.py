@@ -1,14 +1,16 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        count = 0
-        prefix_sum = {0: 1}
-        total = 0 
-        for i, num in enumerate(nums):
-            total += num
-            if total - k in prefix_sum:
-                count += prefix_sum[total - k]
-            if total in prefix_sum:
-                prefix_sum[total] += 1
+        prefix = 0  # prefix sum
+        seen = {0: 1}
+        count = 0 # number of times subarray sum equals k 
+
+        for num in nums:
+            prefix += num
+            count += seen.get(prefix - k, 0)
+
+            if prefix not in seen:
+                seen[prefix] = 1
             else:
-                prefix_sum[total] = 1
+                seen[prefix] += 1
+
         return count
