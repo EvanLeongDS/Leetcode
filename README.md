@@ -55,6 +55,7 @@
 | [0312-burst-balloons](https://github.com/EvanLeongDS/Leetcode/tree/master/0312-burst-balloons) |
 | [0417-pacific-atlantic-water-flow](https://github.com/EvanLeongDS/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0523-continuous-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/EvanLeongDS/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -111,6 +112,7 @@
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/EvanLeongDS/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/EvanLeongDS/Leetcode/tree/master/0705-design-hashset) |
@@ -195,6 +197,7 @@
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/EvanLeongDS/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0523-continuous-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EvanLeongDS/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -282,6 +285,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/EvanLeongDS/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/EvanLeongDS/Leetcode/tree/master/0724-find-pivot-index) |
@@ -389,4 +393,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/EvanLeongDS/Leetcode/tree/master/0056-merge-intervals) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
