@@ -68,6 +68,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/EvanLeongDS/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/EvanLeongDS/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/EvanLeongDS/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EvanLeongDS/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/EvanLeongDS/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EvanLeongDS/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -119,6 +120,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/EvanLeongDS/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/EvanLeongDS/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/EvanLeongDS/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EvanLeongDS/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2013-detect-squares](https://github.com/EvanLeongDS/Leetcode/tree/master/2013-detect-squares) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/EvanLeongDS/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
@@ -191,6 +193,7 @@
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/EvanLeongDS/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EvanLeongDS/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -272,6 +275,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/EvanLeongDS/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EvanLeongDS/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -279,6 +283,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/EvanLeongDS/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/EvanLeongDS/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/EvanLeongDS/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EvanLeongDS/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
