@@ -1,29 +1,27 @@
 class Solution:
-    def asteroidCollision(self, asteroids: List[int]) -> List[int]:
+    def asteroidCollision(self, asteroids: list[int]) -> list[int]:
         stack = []
-        for asteroid in asteroids:
-            if stack and asteroid < 0 and stack[-1] > 0 and abs(asteroid) > abs(stack[-1]):
-                # collision where asteroid is bigger than stack, keep the asteroid
-                while stack and asteroid < 0 and stack[-1] > 0 and abs(asteroid) > abs(stack[-1]):
-                    stack.pop()
-                # check for equality before appending 
-                if stack and asteroid < 0 and stack[-1] > 0 and abs(asteroid) == abs(stack[-1]):
-                    stack.pop()
-                elif stack and abs(stack[-1]) > abs(asteroid) and asteroid < 0 and stack[-1] > 0 :
-                    pass
-                else:
-                    stack.append(asteroid)
-            elif stack and  asteroid < 0 and stack[-1] > 0 and abs(asteroid) < abs(stack[-1]):
-                # collision where stack is bigger than asteroid, keep the stack
-                pass
-            elif stack and  asteroid < 0 and stack[-1] > 0 and abs(asteroid) == abs(stack[-1]):
-                # collision where stack and asteroid are equal
-                stack.pop()
+
+        # if the asteroid don't collide append to the stack
+        stack.append(asteroids[0])
+
+        for i in range(1, len(asteroids)):
+            if stack and asteroids[i] < 0 and stack[-1] > 0:
+                alive = True # a live asteroid means its hitting the stack
+                while alive and stack and asteroids[i] < 0 and stack[-1] > 0: 
+                    # we have a collision!
+                    if abs(asteroids[i]) > abs(stack[-1]):
+                        # asteroid destroys the top of the stack
+                        stack.pop()
+                    elif abs(asteroids[i]) == abs(stack[-1]):
+                        # both the asteroid and the stack explode
+                        stack.pop() 
+                        alive = False
+                    else:
+                        alive = False
+                    
+                if alive:
+                    stack.append(asteroids[i])
             else:
-                stack.append(asteroid)
+                stack.append(asteroids[i])
         return stack
-
-
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
