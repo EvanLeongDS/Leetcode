@@ -16,6 +16,7 @@
 | [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/EvanLeongDS/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/EvanLeongDS/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/EvanLeongDS/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Dynamic Programming
 |  |
@@ -104,6 +105,7 @@
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/EvanLeongDS/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/EvanLeongDS/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Hash Table
 |  |
@@ -156,6 +158,7 @@
 | [0658-find-k-closest-elements](https://github.com/EvanLeongDS/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/EvanLeongDS/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/EvanLeongDS/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/EvanLeongDS/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/EvanLeongDS/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Stack
@@ -169,6 +172,7 @@
 | [0678-valid-parenthesis-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/EvanLeongDS/Leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/EvanLeongDS/Leetcode/tree/master/0901-online-stock-span) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/EvanLeongDS/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/EvanLeongDS/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/EvanLeongDS/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Binary Search
@@ -404,4 +408,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/EvanLeongDS/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
