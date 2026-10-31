@@ -16,6 +16,7 @@
 | [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/EvanLeongDS/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/EvanLeongDS/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0763-partition-labels](https://github.com/EvanLeongDS/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/EvanLeongDS/Leetcode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EvanLeongDS/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/EvanLeongDS/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0997-find-the-town-judge](https://github.com/EvanLeongDS/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EvanLeongDS/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2013-detect-squares](https://github.com/EvanLeongDS/Leetcode/tree/master/2013-detect-squares) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/EvanLeongDS/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/EvanLeongDS/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -165,6 +168,7 @@
 | [0678-valid-parenthesis-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/EvanLeongDS/Leetcode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/EvanLeongDS/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/EvanLeongDS/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Binary Search
 |  |
 | ------- |
