@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/EvanLeongDS/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EvanLeongDS/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EvanLeongDS/Leetcode/tree/master/0027-remove-element) |
@@ -116,6 +117,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/EvanLeongDS/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/EvanLeongDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/EvanLeongDS/Leetcode/tree/master/0133-clone-graph) |
