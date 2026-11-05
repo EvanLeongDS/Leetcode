@@ -12,6 +12,7 @@
 | [0071-simplify-path](https://github.com/EvanLeongDS/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/EvanLeongDS/Leetcode/tree/master/0072-edit-distance) |
 | [0394-decode-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/EvanLeongDS/Leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/EvanLeongDS/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/EvanLeongDS/Leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/EvanLeongDS/Leetcode/tree/master/0752-open-the-lock) |
@@ -217,6 +218,7 @@
 | [0202-happy-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/EvanLeongDS/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/EvanLeongDS/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/EvanLeongDS/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/EvanLeongDS/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EvanLeongDS/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
@@ -236,6 +238,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/EvanLeongDS/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/EvanLeongDS/Leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/EvanLeongDS/Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/EvanLeongDS/Leetcode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/EvanLeongDS/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Design
